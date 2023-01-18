@@ -1,12 +1,11 @@
 ---
 title: AIAA-ATC
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: xxx
+bio: xxxxxxx
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - xxx
+  - xxx
+  - xxx
 social:
   - icon: envelope
     icon_pack: fas
