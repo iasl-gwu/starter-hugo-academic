@@ -44,6 +44,7 @@ sections:
   
   
   - block: collection
+    id: publications
     content:
       title: Recent Publications
       text: |-
