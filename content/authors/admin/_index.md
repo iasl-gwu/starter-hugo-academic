@@ -25,14 +25,7 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 
-education:
-  courses: []
-superuser: true
-status:
-  icon: ☕️
-last_name: Wu
-highlight_name: true
-first_name: Alice
+
 email: ""
 ---
 
