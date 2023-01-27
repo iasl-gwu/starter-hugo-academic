@@ -16,7 +16,7 @@ AIAA Air Transportation Systems Technical Committee (ATSTC) is a US-based intern
 
 p﻿lanning for aiaa aviation, 
 
-**Research Interests of ATS TC Members**
+**Research Interests of the ATS TC Members**
 
 * Advanced Operational Concepts for ATC/ATM
 * Aviation Safety and Reliability
