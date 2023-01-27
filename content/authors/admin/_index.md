@@ -35,11 +35,11 @@ p﻿lanning for aiaa aviation,
 * Simulation, Modeling, and Analysis of ATC/ATM Technologies and Procedures
 * Sustainable Aviation and Electrification in Aviation
 
-**How can you join us and meet with us?**
+**Come Join Us**
 
 T﻿he ATS TC meets every year in June during AIAA Aviation Forum. AIAA membership is required to become an official TC member. Please contact us if you would like to join us as an official TC member or a friend (added in the email list).
 
-**What is AIAA?**
+**About AIAA**
 
 The American Institute of Aeronautics and Astronautics (AIAA) is a professional society for the field of aerospace engineering. With nearly 30,000 individual members from 91 countries and 95 corporate members, AIAA is the world’s oldest and largest technical society dedicated to the global aerospace profession. The goal of the AIAA is to address the interests and needs of engineers, researchers, managers and policy makers. To accomplish this, the AIAA involves corporations and professionals at all levels.
 
