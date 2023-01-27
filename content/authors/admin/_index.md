@@ -1,5 +1,5 @@
 ---
-title: AIAA-ATC
+title: AIAA Air Transportation Systems Technical Committee
 role: xxx
 bio: xxxxxxx
 interests:
@@ -10,7 +10,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -20,10 +19,8 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
-
-
-
 email: ""
+superuser: true
 ---
 
 AIAA-ATC is xxxxxx
