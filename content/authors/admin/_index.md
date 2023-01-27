@@ -1,7 +1,7 @@
 ---
 title: AIAA Air Transportation Systems Technical Committee
-role: xxx
-bio: xxxxxxx
+role: ""
+bio: ""
 interests:
   - xxx
   - xxx
@@ -22,6 +22,7 @@ social:
 email: ""
 superuser: true
 ---
+AIAA Air Transportation Systems Technical Committee (ATSTC) is a US-based international technical community that fosters collaboration of air transportation and aviation systems research.
 
-AIAA-ATC is xxxxxx
+
 {style="text-align: justify;"}
