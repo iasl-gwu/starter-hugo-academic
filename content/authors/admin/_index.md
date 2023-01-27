@@ -12,8 +12,6 @@ superuser: true
 ---
 AIAA Air Transportation Systems Technical Committee (ATSTC) is a US-based international technical community that fosters collaboration of air transportation and aviation systems research.
 
-**Why is Space Logistics crucial?**
-
 **Work Scope of the AIAA Air Transportation Systems Technical Committee (ATSTC)** 
 
 p﻿lanning for aiaa aviation, 
