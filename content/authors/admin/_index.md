@@ -45,4 +45,4 @@ The American Institute of Aeronautics and Astronautics (AIAA) is a professional 
 
 
 
-{style="text-align: justify;"}
+{style="text-align: left;"}
