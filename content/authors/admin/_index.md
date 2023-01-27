@@ -37,7 +37,7 @@ p﻿lanning for aiaa aviation,
 
 **How can you join us and meet with us?**
 
-T﻿he ATS TC meets every year in June during AIAA Aviation Forum. AIAA membership is required to become an official TC member. Please contact us if you would like to join us as an official TC member or a friend (in the email list).
+T﻿he ATS TC meets every year in June during AIAA Aviation Forum. AIAA membership is required to become an official TC member. Please contact us if you would like to join us as an official TC member or a friend (added in the email list).
 
 **What is AIAA?**
 
